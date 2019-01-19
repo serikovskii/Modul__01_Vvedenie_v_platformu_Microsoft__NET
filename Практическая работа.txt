@@ -1,0 +1,14 @@
+using System;
+	
+
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Mukushev Azat");
+		Console.WriteLine("¬ведите 2 числа:");
+		int numOne = Int32.Parse(Console.ReadLine());
+		int numTwo = Int32.Parse(Console.ReadLine());
+		Console.WriteLine(numOne+numTwo);
+	}
+}
