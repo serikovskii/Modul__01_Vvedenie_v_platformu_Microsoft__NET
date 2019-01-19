@@ -1,0 +1,13 @@
+using System;
+	
+
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Материалы изучены \nПервое консольное приложение");
+		
+	}
+}
+
+
