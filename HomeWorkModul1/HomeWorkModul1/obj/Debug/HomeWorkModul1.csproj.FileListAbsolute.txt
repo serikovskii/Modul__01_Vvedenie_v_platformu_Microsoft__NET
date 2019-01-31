@@ -1,0 +1,7 @@
+C:\Users\МукушевА\Source\Repos\HomeWorkModul1\HomeWorkModul1\HomeWorkModul1\bin\Debug\HomeWorkModul1.exe.config
+C:\Users\МукушевА\Source\Repos\HomeWorkModul1\HomeWorkModul1\HomeWorkModul1\bin\Debug\HomeWorkModul1.exe
+C:\Users\МукушевА\Source\Repos\HomeWorkModul1\HomeWorkModul1\HomeWorkModul1\bin\Debug\HomeWorkModul1.pdb
+C:\Users\МукушевА\Source\Repos\HomeWorkModul1\HomeWorkModul1\HomeWorkModul1\obj\Debug\HomeWorkModul1.csprojAssemblyReference.cache
+C:\Users\МукушевА\Source\Repos\HomeWorkModul1\HomeWorkModul1\HomeWorkModul1\obj\Debug\HomeWorkModul1.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА\Source\Repos\HomeWorkModul1\HomeWorkModul1\HomeWorkModul1\obj\Debug\HomeWorkModul1.exe
+C:\Users\МукушевА\Source\Repos\HomeWorkModul1\HomeWorkModul1\HomeWorkModul1\obj\Debug\HomeWorkModul1.pdb
