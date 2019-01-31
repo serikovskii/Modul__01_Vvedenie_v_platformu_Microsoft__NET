@@ -1,0 +1,7 @@
+C:\Users\МукушевА\Source\Repos\Modul_1_Praktica\ClassWorkModul1\ClassWorkModul1\bin\Debug\ClassWorkModul1.exe.config
+C:\Users\МукушевА\Source\Repos\Modul_1_Praktica\ClassWorkModul1\ClassWorkModul1\bin\Debug\ClassWorkModul1.exe
+C:\Users\МукушевА\Source\Repos\Modul_1_Praktica\ClassWorkModul1\ClassWorkModul1\bin\Debug\ClassWorkModul1.pdb
+C:\Users\МукушевА\Source\Repos\Modul_1_Praktica\ClassWorkModul1\ClassWorkModul1\obj\Debug\ClassWorkModul1.csprojAssemblyReference.cache
+C:\Users\МукушевА\Source\Repos\Modul_1_Praktica\ClassWorkModul1\ClassWorkModul1\obj\Debug\ClassWorkModul1.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА\Source\Repos\Modul_1_Praktica\ClassWorkModul1\ClassWorkModul1\obj\Debug\ClassWorkModul1.exe
+C:\Users\МукушевА\Source\Repos\Modul_1_Praktica\ClassWorkModul1\ClassWorkModul1\obj\Debug\ClassWorkModul1.pdb
